@@ -11,3 +11,6 @@ NOTE: I claim no responsibility for the content or of this site as well as the u
 <li>Video Chat</li>
 <li>Kick and Ban Buttons</li>
 </ul>
+
+<h2>Credits:</h2>
+Thank you bluecherry_ for the awesome CSS!
